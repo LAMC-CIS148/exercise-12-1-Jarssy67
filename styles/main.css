@@ -131,7 +131,7 @@ caption {
 	color: #800000;
 	margin-bottom: 3px;
 }
-thead tr {
+thead {
 	border-top: 1px solid #800000;
 }
 th, td {
